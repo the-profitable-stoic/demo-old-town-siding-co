@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-old-town-siding-co.dream-surge.com/sitemap-index.xml

@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Old Town Siding Co",
+    "phone": "+19182624209",
+    "category": "siding contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tulsa's Trusted Siding Experts",
+      "heroSubline": "Protecting your home with top-quality siding solutions. Decades of experience tackling Oklahoma's toughest weather.",
+      "aboutTitle": "Your Tulsa Siding Specialists",
+      "aboutText": [
+        "Old Town Siding Co. was founded right here in Tulsa over a decade ago with a commitment to providing durable and beautiful siding solutions for our neighbors. We saw a need for reliable contractors who understood the unique challenges of Oklahoma's climate, and we've been exceeding expectations ever since.",
+        "We believe in doing things the right way, every time. That means using only the highest-quality materials, employing skilled and experienced installers, and standing behind our work with unwavering integrity. From initial consultation to final inspection, you can count on us for clear communication and exceptional service.",
+        "Tulsa is our home, and we're proud to contribute to its vibrant community. We actively support local initiatives and strive to be a responsible and ethical business. When you choose Old Town Siding Co., you're not just getting a great siding job – you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our team of experienced professionals ensures precise and durable siding installation."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium siding products built to withstand Oklahoma's weather extremes."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Tulsa's unique architectural styles and climate challenges."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive warranty and a commitment to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote for your siding project. Call now!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for Tulsa homes.",
+        "description": "Vinyl siding remains a popular choice for Tulsa homeowners due to its affordability, durability, and low maintenance requirements. Old Town Siding Co. offers a wide variety of vinyl siding styles and colors to complement any architectural design, from classic ranch homes in midtown to newer builds in the suburbs. We understand the importance of proper installation to ensure long-lasting performance, especially in Oklahoma's climate. Our team meticulously installs each panel, paying close attention to detail to prevent moisture intrusion and maintain a seamless appearance.\n\nWe use only premium-grade vinyl siding products designed to withstand the harsh Oklahoma sun, strong winds, and occasional hail. Our experienced installers are trained to handle any challenges, including uneven walls and complex architectural features. We also ensure proper ventilation behind the siding to prevent mold and mildew growth, contributing to a healthier and more comfortable home.\n\nWith Old Town Siding Co., you can expect a hassle-free experience from start to finish. We'll work closely with you to select the perfect vinyl siding option for your home and budget, and our skilled team will complete the installation efficiently and professionally. Enjoy the peace of mind that comes with knowing your home is protected by a durable and attractive vinyl siding system.",
+        "process": [
+          "Step 1: Consultation and Estimate: We'll assess your needs and provide a detailed, transparent estimate.",
+          "Step 2: Material Selection: Choose from a wide range of vinyl siding styles and colors.",
+          "Step 3: Professional Installation: Our experienced team will install your siding with precision and care.",
+          "Step 4: Final Inspection: We'll ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Affordable and durable",
+          "Low maintenance",
+          "Wide variety of styles and colors",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-40 years or more."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation. We also offer insulated vinyl siding options for enhanced performance."
+          },
+          {
+            "question": "How do I clean vinyl siding?",
+            "answer": "Vinyl siding can be easily cleaned with soap and water or a pressure washer on a low setting."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and beautiful fiber cement siding for Tulsa's discerning homeowners.",
+        "description": "Fiber cement siding is a premium siding option known for its exceptional durability, fire resistance, and aesthetic appeal. Old Town Siding Co. specializes in the professional installation of fiber cement siding for Tulsa homes that demand the best. Fiber cement siding mimics the look of natural wood but resists rot, insects, and fire, making it an ideal choice for Oklahoma's climate. We expertly install fiber cement siding on a variety of home styles, from historic homes in Brookside to modern residences in Jenks.\n\nOur team is highly trained in the proper techniques for installing fiber cement siding, ensuring a flawless and long-lasting finish. We pay meticulous attention to detail, including proper sealing and flashing, to prevent moisture intrusion and protect your home from the elements. We understand the importance of using the right tools and materials to achieve optimal results.\n\nOld Town Siding Co. offers a wide range of fiber cement siding styles and colors to suit your taste and budget. Whether you're looking for a classic clapboard look or a more contemporary design, we can help you find the perfect fiber cement siding solution for your home. Enjoy the beauty and durability of fiber cement siding with professional installation from Old Town Siding Co.",
+        "process": [
+          "Step 1: Consultation and Design: We'll discuss your aesthetic preferences and provide expert design advice.",
+          "Step 2: Precise Measurement and Cutting: We ensure accurate cuts for a seamless and professional finish.",
+          "Step 3: Expert Installation: Our skilled team will install your fiber cement siding with precision and care.",
+          "Step 4: Painting and Finishing: We'll paint or stain your siding to your exact specifications."
+        ],
+        "benefits": [
+          "Exceptional durability and fire resistance",
+          "Authentic wood-like appearance",
+          "Low maintenance",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance."
+          },
+          {
+            "question": "Is fiber cement siding expensive?",
+            "answer": "Fiber cement siding is a premium siding option and typically costs more than vinyl siding. However, its long lifespan and durability make it a worthwhile investment."
+          },
+          {
+            "question": "Does fiber cement siding need to be painted?",
+            "answer": "Yes, fiber cement siding needs to be painted or stained to protect it from the elements and maintain its appearance. We offer professional painting services to ensure a long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Fast and reliable siding repair services to protect your Tulsa home.",
+        "description": "Oklahoma weather can be brutal on siding. Hail, wind, and extreme temperature fluctuations can cause cracks, dents, and loose panels. Old Town Siding Co. provides comprehensive siding repair services to address any damage and restore your home's protection and curb appeal. We handle all types of siding repairs, from minor patching to complete panel replacements.\n\nOur experienced technicians are equipped to assess the damage and provide cost-effective repair solutions. We understand the importance of timely repairs to prevent further damage and maintain the integrity of your siding system. We work with all types of siding materials, including vinyl, fiber cement, and wood.\n\nDon't let damaged siding compromise your home's protection and value. Contact Old Town Siding Co. for prompt and reliable siding repair services. We'll get your siding back in top condition quickly and efficiently.",
+        "process": [
+          "Step 1: Damage Assessment: We'll thoroughly inspect your siding to identify the extent of the damage.",
+          "Step 2: Repair Plan: We'll develop a customized repair plan to address the specific issues.",
+          "Step 3: Expert Repair: Our skilled technicians will perform the necessary repairs with precision and care.",
+          "Step 4: Quality Assurance: We'll ensure the repairs are completed to the highest standards."
+        ],
+        "benefits": [
+          "Protects your home from the elements",
+          "Maintains your home's curb appeal",
+          "Prevents further damage",
+          "Extends the lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Look for signs of damage such as cracks, dents, loose panels, or discoloration."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While some minor repairs can be done DIY, it's best to hire a professional for significant damage to ensure proper repair and prevent further issues."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair depends on the extent of the damage and the type of siding material. We offer free estimates to provide you with a clear understanding of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your Tulsa home with new, high-quality siding.",
+        "description": "When siding is beyond repair or simply outdated, Old Town Siding Co. offers complete siding replacement services to transform your home's appearance and protection. We'll remove your old siding and install new, high-quality siding that enhances your home's curb appeal and provides lasting protection from the elements. We offer a wide selection of siding materials, styles, and colors to suit any taste and budget.\n\nOur experienced team will handle every aspect of the siding replacement process, from removing the old siding to installing new flashing and trim. We pay close attention to detail to ensure a flawless and long-lasting finish. We also dispose of the old siding responsibly.\n\nInvesting in new siding can significantly improve your home's value, energy efficiency, and curb appeal. Contact Old Town Siding Co. for a free consultation and let us help you choose the perfect siding replacement solution for your Tulsa home.",
+        "process": [
+          "Step 1: Consultation and Design: We'll discuss your goals and help you choose the right siding for your home.",
+          "Step 2: Removal of Old Siding: We'll safely and efficiently remove your existing siding.",
+          "Step 3: Installation of New Siding: Our skilled team will install your new siding with precision and care.",
+          "Step 4: Cleanup and Inspection: We'll clean up the job site and ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced energy efficiency",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size of your home and the complexity of the project. We'll provide you with an estimated timeline during the consultation."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In some cases, a permit may be required for siding replacement. We'll handle the permit process for you."
+          },
+          {
+            "question": "What is the best time of year for siding replacement?",
+            "answer": "Siding replacement can be done at any time of year, but the ideal time is during the spring or fall when the weather is mild."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair & Installation",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and home from moisture, pests, and the elements. Old Town Siding Co. provides expert soffit and fascia repair and installation services to ensure your home is properly protected. We handle all types of soffit and fascia materials, including wood, vinyl, and aluminum.\n\nDamaged or missing soffit and fascia can lead to serious problems, such as water damage, mold growth, and pest infestations. Our experienced technicians can quickly assess the damage and provide effective repair solutions. We also offer complete soffit and fascia replacement services to upgrade your home's protection and appearance.\n\nProperly installed and maintained soffit and fascia are essential for the long-term health of your roof and home. Contact Old Town Siding Co. for reliable soffit and fascia services you can trust.",
+        "process": [
+          "Step 1: Inspection and Assessment: We'll inspect your soffit and fascia to identify any damage or deterioration.",
+          "Step 2: Repair or Replacement: We'll recommend the best course of action based on the condition of your soffit and fascia.",
+          "Step 3: Professional Installation: Our skilled team will install or repair your soffit and fascia with precision and care.",
+          "Step 4: Quality Assurance: We'll ensure the work is completed to the highest standards and provides lasting protection."
+        ],
+        "benefits": [
+          "Protects your roof from moisture and pests",
+          "Improves ventilation",
+          "Enhances curb appeal",
+          "Extends the lifespan of your roof"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Look for signs of damage such as rot, cracks, peeling paint, or pest infestations."
+          },
+          {
+            "question": "What are the benefits of proper soffit and fascia?",
+            "answer": "Properly installed and maintained soffit and fascia protect your roof from moisture and pests, improve ventilation, and enhance your home's curb appeal."
+          }
+        ]
+      },
+      {
+        "slug": "trim-installation",
+        "name": "Trim Installation and Repair",
+        "shortDescription": "Providing professional trim installation and repair services in Tulsa.",
+        "description": "Old Town Siding Co. offers comprehensive trim installation and repair services to enhance the beauty and protection of your home. Trim adds a finishing touch to your siding and protects vulnerable areas from the elements. Our experienced team can install or repair all types of trim, including window trim, door trim, corner trim, and more.\n\nWe use high-quality materials and precise installation techniques to ensure a seamless and long-lasting finish. Whether you're looking to upgrade your existing trim or repair damaged trim, Old Town Siding Co. has you covered.\n\nWe pay attention to every detail to ensure your trim complements your siding and enhances your home's overall aesthetic appeal. We also offer custom trim solutions to meet your specific needs and preferences.",
+        "process": [
+          "Step 1: Consultation and Design: We'll discuss your design preferences and help you choose the right trim for your home.",
+          "Step 2: Precise Measurement and Cutting: We ensure accurate cuts for a seamless and professional finish.",
+          "Step 3: Expert Installation: Our skilled team will install your trim with precision and care.",
+          "Step 4: Painting and Finishing: We'll paint or stain your trim to your exact specifications."
+        ],
+        "benefits": [
+          "Enhances curb appeal",
+          "Protects vulnerable areas from the elements",
+          "Adds a finishing touch to your siding",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim do you install?",
+            "answer": "We install all types of trim, including window trim, door trim, corner trim, and more."
+          },
+          {
+            "question": "What materials do you use for trim?",
+            "answer": "We use high-quality materials such as wood, vinyl, and composite trim."
+          },
+          {
+            "question": "How much does trim installation cost?",
+            "answer": "The cost of trim installation depends on the type of trim, the size of your home, and the complexity of the project. We offer free estimates to provide you with a clear understanding of the costs involved."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is proud to offer our expert siding services to the residents and businesses of Tulsa, Oklahoma. We understand the unique challenges that Tulsa's climate presents to siding, from harsh summers to occasional severe storms. Our team is dedicated to providing durable, beautiful, and energy-efficient siding solutions that will protect your property for years to come.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, wood, and metal, ensuring that we can meet the diverse needs and preferences of our Tulsa clients. Whether you're looking to update the look of your home, increase its energy efficiency, or simply need to repair damaged siding, Old Town Siding Co is here to help. We are committed to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Tulsa is a vibrant city known for its art deco architecture and rich history. We're familiar with the specific requirements of homes in historic districts and modern developments alike.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is committed to providing top-notch siding services to the Broken Arrow community. We understand that Broken Arrow residents value quality and durability, which is why we offer a wide range of siding options to suit every style and budget. Our experienced team is dedicated to ensuring your siding project is completed to the highest standards.\n\nFrom new siding installation to siding repairs and maintenance, Old Town Siding Co has you covered. We use only the best materials and employ proven techniques to ensure long-lasting results. We are dedicated to improving the curb appeal and protection of homes in Broken Arrow.",
+        "localContext": "Broken Arrow is a growing suburban city with a strong sense of community and family values. We understand the aesthetic preferences of homeowners in this area.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is proud to serve the residents of Owasso, Oklahoma with reliable and affordable siding solutions. We understand the specific needs of homeowners in Owasso, from protecting their homes from the elements to enhancing their property's value. Our team of skilled professionals is committed to providing exceptional service and quality workmanship.\n\nWe offer a comprehensive range of siding services, including installation, repair, and replacement. Whether you're building a new home or renovating an existing one, Old Town Siding Co can help you choose the perfect siding for your needs and budget. We are dedicated to enhancing the beauty and protection of homes in Owasso.",
+        "localContext": "Owasso is a family-friendly community known for its excellent schools and thriving local businesses. We're familiar with the common architectural styles found in Owasso neighborhoods.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is your trusted source for siding services in Sand Springs, Oklahoma. We understand the importance of protecting your home from the elements, and we are committed to providing durable and reliable siding solutions that will stand the test of time. Our team of experienced professionals is dedicated to ensuring your complete satisfaction.\n\nWe offer a wide range of siding options to suit every style and budget. From vinyl to fiber cement to wood, we have the perfect siding to enhance the beauty and value of your home. Old Town Siding Co is dedicated to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Sand Springs is a historic town located on the Arkansas River, known for its scenic beauty and strong sense of community. We understand the unique challenges and opportunities presented by homes in this area.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is delighted to provide top-quality siding services to the residents of Sapulpa, Oklahoma. We know that homeowners in Sapulpa appreciate both the aesthetics and functional benefits of durable, well-installed siding. We are committed to delivering exceptional results that enhance the value and curb appeal of your home.\n\nOur team of experienced professionals offers a comprehensive range of siding services, from new installations to repairs and replacements. Whether you're looking for a classic look or a modern design, we can help you find the perfect siding to complement your home's style. Old Town Siding Co guarantees exceptional customer service.",
+        "localContext": "Sapulpa is a charming city with a rich history and a strong sense of community. We are familiar with the diverse architectural styles in Sapulpa.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Bristow"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is proud to offer expert siding services to the growing community of Bixby, Oklahoma. We understand that Bixby homeowners take pride in their properties, and we are committed to providing siding solutions that enhance the beauty and value of your home. Our team is dedicated to delivering exceptional customer service and quality workmanship.\n\nWe offer a wide range of siding options to suit every style and budget, including vinyl, fiber cement, and wood. Whether you're building a new home or renovating an existing one, Old Town Siding Co can help you choose the perfect siding for your needs. We are committed to protecting and beautifying homes in Bixby.",
+        "localContext": "Bixby is a rapidly growing city known for its excellent schools and family-friendly atmosphere. We understand the needs and preferences of homeowners in this dynamic community.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Broken Arrow",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co is dedicated to providing top-quality siding services to the residents of Jenks, Oklahoma. We understand the importance of protecting your home from the elements and enhancing its curb appeal. Our team of experienced professionals is committed to delivering exceptional results that exceed your expectations.\n\nWe offer a comprehensive range of siding services, including installation, repair, and replacement. Whether you're looking to update the look of your home or simply need to repair damaged siding, Old Town Siding Co is here to help. We are committed to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Jenks is a thriving city known for its aquarium and vibrant downtown area. We are familiar with the diverse architectural styles and siding needs of homes in Jenks.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Bixby",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Old Town Siding Co. is proud to extend our siding services to the residents of Glenpool, OK. We understand the importance of quality siding in protecting your home from the elements and enhancing its overall aesthetic. Our team is committed to providing durable and visually appealing siding solutions tailored to your needs.\n\nFrom installation to repairs, we offer a comprehensive range of services using high-quality materials and expert craftsmanship. We strive to deliver exceptional customer service and ensure your complete satisfaction with our work. We're dedicated to improving the look and longevity of homes in Glenpool.",
+        "localContext": "Glenpool is a growing community with a mix of established neighborhoods and new developments. We understand the variety of home styles and siding preferences in the area.",
+        "nearbyAreas": [
+          "Jenks",
+          "Sapulpa",
+          "Kiefer"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Old Town Siding Co. did an incredible job on our vinyl siding installation! The team was professional, efficient, and the siding looks fantastic. They even cleaned up everything thoroughly. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage to our fiber cement siding. Old Town Siding Co. came out quickly and did a great job repairing the damaged sections. The repairs are seamless, and you can't even tell there was ever any damage.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "From the initial consultation to the final inspection, the team at Old Town Siding Co. was a pleasure to work with. They installed fiber cement siding on our home, and it looks amazing. We get compliments on it all the time. Worth the investment!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Soffit & Fascia Repair",
+        "text": "Old Town Siding Co. repaired some damaged soffit and fascia on our home. They were prompt, professional, and the price was very fair. We'll definitely use them again for any future siding needs.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "We had our old wood siding replaced with vinyl siding by Old Town Siding Co. The process was smooth, and the crew was very respectful of our property. We're happy with the new look and the added protection.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Trim Installation",
+        "text": "The trim work done by Old Town Siding Co. really elevated the look of our home. They paid attention to every detail and the results are outstanding. Professional, reliable, and great value.",
+        "date": "2024-05-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Old Town Siding Co | Tulsa Siding Experts",
+        "description": "Tulsa's trusted siding contractor. Vinyl, fiber cement, repair & replacement. Free quotes. Protect your home today!"
+      },
+      "about": {
+        "title": "About Old Town Siding Co | Tulsa, OK",
+        "description": "Learn about Old Town Siding Co in Tulsa, OK. Local siding experts with years of experience and a commitment to quality craftsmanship."
+      },
+      "services": {
+        "title": "Siding Services | Old Town Siding Co, Tulsa",
+        "description": "Comprehensive siding services in Tulsa: vinyl, fiber cement, repair, replacement, soffit & fascia. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Old Town Siding Co | Tulsa, OK",
+        "description": "Contact Old Town Siding Co for siding services in Tulsa, OK. Get a free quote and expert advice for your siding project."
+      },
+      "reviews": {
+        "title": "Old Town Siding Co Reviews | Tulsa, OK",
+        "description": "Read reviews for Old Town Siding Co in Tulsa, OK. See what our satisfied customers say about our siding services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Old Town Siding Co, Tulsa",
+        "description": "Old Town Siding Co serves Tulsa and surrounding areas. Find out if we provide siding services in your community."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "trim-installation": "/images/service-trim-installation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-installation": {
+        "src": "/images/service-trim-installation.webp",
+        "srcset": "/images/service-trim-installation-400w.webp 400w, /images/service-trim-installation-800w.webp 800w, /images/service-trim-installation-1200w.webp 1200w, /images/service-trim-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
